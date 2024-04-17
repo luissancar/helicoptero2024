@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-
+// Camaras
 public class Cameras : MonoBehaviour
 {
     [System.Serializable]
